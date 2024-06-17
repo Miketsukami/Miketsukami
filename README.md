@@ -1,3 +1,9 @@
+### Stack
+- **Backend**: Python (Django/Flask/FastAPI)
+- **Frontend**: Javascript/Typescript (React/Vue.js), CSS (SASS/SCSS), HTML
+- **Databases and Storages**: Postgres, MySQL/MariaDB, MongoDB, Redis
+- **Other**: Docker, RabbitMQ
+ 
 ### Career
 - 2022-now, **BestDoctor**, *senior backend developer*
 - 2019-2022, **EPAM Systems Inc.**, *senior software engineer*
