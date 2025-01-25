@@ -2,7 +2,7 @@
 - **Backend**: Python (Django/Flask/FastAPI)
 - **Frontend**: Javascript/Typescript (React/Vue.js), CSS (SASS/SCSS), HTML
 - **Databases and Storages**: Postgres, MySQL/MariaDB, MongoDB, Redis
-- **Other**: Docker, RabbitMQ
+- **Other**: Docker, Kafka, RabbitMQ
  
 ### Career
 - 2024-now, **Ruform**, *senior backend developer*
