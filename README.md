@@ -12,6 +12,7 @@
 - 2017-2018, **BARS Group**, *senior python developer*
 - 2014-2017, **220Volt**, *senior python developer*
 - 2012-2014, **CenterInform**, *middle specialist → senior specialist*
+- Before 2012, freelance projects
 
 ### Education
 - 2008-2013, **National Research University ITMO**, *engineer's degree*
