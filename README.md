@@ -3,6 +3,7 @@
 - **Frontend**: Javascript/Typescript (React/Vue.js), CSS (SASS/SCSS), HTML
 - **Databases and Storages**: Postgres, MySQL/MariaDB, MongoDB, Redis
 - **Other**: Docker, Kafka, RabbitMQ
+- **For fun**: C++
  
 ### Career
 - 2024-now, **Ruform**, *senior backend developer*
