@@ -6,7 +6,8 @@
 - **For fun**: C++
  
 ### Career
-- From 2024, **Ruform**, *senior backend developer*
+- From 2025, **Ruform Tech**, *senior backend developer*
+- 2024-2025, **Ruform**, *senior backend developer*
 - 2022-2024, **BestDoctor**, *senior backend developer*
 - 2019-2022, **EPAM Systems Inc.**, *senior software engineer*
 - 2018-2019, **1CUPIS**, *senior developer*
