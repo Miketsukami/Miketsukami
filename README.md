@@ -1,6 +1,6 @@
 ### Stack
 - **Backend**: Python (Django/Flask/FastAPI)
-- **Frontend**: Javascript/Typescript (React), CSS (SASS/SCSS), HTML
+- **Frontend**: Javascript/Typescript (React/Vue), CSS (SASS/SCSS), HTML
 - **Databases and Storages**: Postgres, MongoDB, Redis
 - **Other**: Docker, Kafka, RabbitMQ
 - **For fun**: C++
